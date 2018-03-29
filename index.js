@@ -7,5 +7,7 @@ function dec(a) { return a - 1;}
 function makeInt(a) {
   a.toString();
   return a;}
-function makeInt  
+function makeInt(a) {
+  
+}
   
