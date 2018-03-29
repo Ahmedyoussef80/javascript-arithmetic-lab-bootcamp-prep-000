@@ -8,7 +8,8 @@ function makeInt(a) {
   a.string();
  return a;}
  function preserveDecimal(a){
-   
+   parseFloat(a);
+   return a;
  }
   
 
