@@ -5,11 +5,11 @@ function divide(a, b) { return a/b;}
 function inc(a) { return a + 1;}
 function dec(a) { return a - 1;}
 function makeInt(a) {
-  a.string()===a;
- return a;}
+  
+ return a.toString();}
  function preserveDecimal(a){
-   parseFloat(a)===a;
-   return a;
+
+   return parseFloat(a);
  }
   
 
