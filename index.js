@@ -5,7 +5,8 @@ function divide(a, b) { return a/b;}
 function inc(a) { return a + 1;}
 function dec(a) { return a - 1;}
 function makeInt(a) { if (a.string()) { return a;}
-  else if ()
+  else if (parseInt(a, 10)) {return a;}
+  else if 
 }
 
   
