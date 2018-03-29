@@ -8,7 +8,7 @@ function makeInt(a) {
   a.toString();
   return a;}
 function makeInt(a) {
-  parseInt(a);
+  parseInt(a , 10);
   return a;
 }
   
